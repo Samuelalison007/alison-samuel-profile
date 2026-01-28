@@ -90,11 +90,11 @@ export default function Home() {
               </p>
             </div>
 
-            <p className="text-lg text-white/80 leading-relaxed max-w-lg">
-              Passionate about financial excellence, strategic decision-making, and driving operational
-              impact. Currently Finance Assistant at Greenwich Students' Union with proven expertise in
-              index governance, financial analysis, and stakeholder collaboration.
-            </p>
+              <p className="text-lg text-white/80 leading-relaxed max-w-lg">
+                Analytical and detail-oriented finance professional with dual Master's degrees and an MBA in Finance.
+                Specialized in financial operations, risk analysis, and portfolio management. Proven ability to manage
+                large transaction volumes with 100% accuracy and drive operational efficiency gains up to 15%.
+              </p>
 
             <div className="flex gap-4 pt-4">
               <Button
@@ -146,16 +146,17 @@ export default function Home() {
               </h2>
 
               <p className="text-lg text-foreground/80 leading-relaxed">
-                With an MBA in Finance from the University of Greenwich (Merit) and a Master's in Commerce
-                from Pune University (Distinction), I combine rigorous academic training with real-world
-                financial expertise. My journey spans from underwriting at Bajaj Finserv to leading financial
-                operations at Greenwich Students' Union, where I've consistently delivered measurable impact.
+                With an MBA in Finance from the University of Greenwich (Merit) and a Master's in Commerce from Pune University (Distinction),
+                I combine rigorous academic training with real-world financial expertise. My specialized focus includes financial operations,
+                underwriting, transaction lifecycle management, risk analysis, and portfolio servicing. I've successfully managed large transaction
+                volumes with 100% accuracy and implemented process improvements that drive operational efficiency.
               </p>
 
               <p className="text-lg text-foreground/80 leading-relaxed">
-                I'm passionate about index governance, financial reconciliation, process improvement, and
-                strategic stakeholder communication. My approach centers on precision, accountability, and
-                collaborative problem-solving—values that have earned me recognition including the GSU Value
+                My professional journey spans from underwriting at Bajaj Finserv—where I reduced risk exposure by 20% and implemented fraud
+                detection frameworks saving £500K+ in potential losses—to leading financial operations at Greenwich Students' Union. I'm passionate
+                about data-driven decision-making, financial reconciliation, process optimization, and strategic stakeholder communication. My approach
+                centers on precision, accountability, and collaborative problem-solving—values that have earned me recognition including the GSU Value
                 Award for Courage.
               </p>
 
@@ -174,23 +175,23 @@ export default function Home() {
 
             <div className="space-y-8">
               <div className="bg-gradient-to-br from-primary/5 to-accent/5 p-8 rounded-lg border border-primary/10">
-                <div className="text-4xl font-bold text-accent mb-2">100%</div>
+                <div className="text-4xl font-bold text-accent mb-2">£4M+</div>
                 <p className="text-foreground/70 font-medium">
-                  Record in Financial Reconciliation
+                  Transactions Managed with 100% Accuracy
                 </p>
               </div>
 
               <div className="bg-gradient-to-br from-accent/5 to-primary/5 p-8 rounded-lg border border-accent/10">
-                <div className="text-4xl font-bold text-primary mb-2">2+</div>
+                <div className="text-4xl font-bold text-primary mb-2">15%</div>
                 <p className="text-foreground/70 font-medium">
-                  Years of Professional Finance Experience
+                  Operational Efficiency Improvement Driven
                 </p>
               </div>
 
               <div className="bg-gradient-to-br from-primary/5 to-accent/5 p-8 rounded-lg border border-primary/10">
-                <div className="text-4xl font-bold text-accent mb-2">10+</div>
+                <div className="text-4xl font-bold text-accent mb-2">£500K+</div>
                 <p className="text-foreground/70 font-medium">
-                  Financial Certifications & Professional Development
+                  Fraud Losses Prevented Through Detection Frameworks
                 </p>
               </div>
             </div>
@@ -226,22 +227,31 @@ export default function Home() {
                   <li className="flex items-start">
                     <span className="text-accent mr-3 mt-1">•</span>
                     <span>
-                      Index Governance Support & Compliance: Managed high-volume financial operations and
-                      governance documentation for £4M+ transactions, maintaining 100% accuracy record
+                      Reconciled £4M+ in financial transactions with 100% accuracy using Twinfield and Basecone
                     </span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-accent mr-3 mt-1">•</span>
                     <span>
-                      Process Management & Improvement: Processed and reconciled invoices, payments, and
-                      refunds using financial software systems (Twinfield, Basecone)
+                      Reduced reconciliation processing time by 15% through automation and system optimization
                     </span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-accent mr-3 mt-1">•</span>
                     <span>
-                      Data Analysis & Reporting: Generated and updated financial reports on daily, weekly,
-                      and monthly basis to support operational decision-making
+                      Partnered with senior leadership and CEO to drive 10% increase in operational efficiency and cash flow performance
+                    </span>
+                  </li>
+                  <li className="flex items-start">
+                    <span className="text-accent mr-3 mt-1">•</span>
+                    <span>
+                      Produced audit-ready financial reports, enabling strategic planning across three fiscal periods
+                    </span>
+                  </li>
+                  <li className="flex items-start">
+                    <span className="text-accent mr-3 mt-1">•</span>
+                    <span>
+                      Budget analysis and budget code planning for all teams and staff for improved cash flow accuracy
                     </span>
                   </li>
                 </ul>
@@ -263,15 +273,25 @@ export default function Home() {
                   <li className="flex items-start">
                     <span className="text-primary/50 mr-3 mt-1">•</span>
                     <span>
-                      Regulatory Compliance & Judgment: Applied sound judgment to assess financial portfolios
-                      and ensure compliance with underwriting standards
+                      Assessed high-value portfolios, reducing risk exposure by 20%
                     </span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-primary/50 mr-3 mt-1">•</span>
                     <span>
-                      Stakeholder Coordination: Managed client portfolio updates and changes with multiple
-                      internal and external stakeholders
+                      Implemented fraud detection frameworks for B2C clients, reducing potential loss by 20%
+                    </span>
+                  </li>
+                  <li className="flex items-start">
+                    <span className="text-primary/50 mr-3 mt-1">•</span>
+                    <span>
+                      Implemented fraud detection framework saving £500K+ in potential losses
+                    </span>
+                  </li>
+                  <li className="flex items-start">
+                    <span className="text-primary/50 mr-3 mt-1">•</span>
+                    <span>
+                      Optimized underwriting throughput by 15% through process redesign and cross-functional collaboration
                     </span>
                   </li>
                 </ul>
@@ -335,10 +355,13 @@ export default function Home() {
                 </div>
                 <p className="text-foreground/70 mb-4">London, United Kingdom | Jan 2026</p>
                 <div className="space-y-2 text-foreground/70">
-                  <p className="font-semibold text-primary">Relevant Coursework:</p>
+                  <p className="font-semibold text-primary">Specialization:</p>
                   <p>
-                    Financial Modeling, Investment Analysis, Corporate Finance, Portfolio Management, Risk
-                    Management
+                    Asset Management & Financial Markets
+                  </p>
+                  <p className="font-semibold text-primary mt-3">Relevant Coursework:</p>
+                  <p>
+                    Financial Modeling, Investment Analysis, Corporate Finance, Portfolio Management, Risk Management
                   </p>
                 </div>
               </div>
@@ -377,50 +400,44 @@ export default function Home() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               <div className="space-y-4">
-                <h3 className="text-xl font-bold text-primary">Index Governance & Compliance</h3>
+                <h3 className="text-xl font-bold text-primary">Data-Driven Decision Making</h3>
                 <p className="text-foreground/70">
-                  Audit Trail Maintenance, Regulatory Compliance, Policy Implementation, Detailed Record-Keeping,
-                  Confidentiality, Financial Reconciliation, Risk Management
+                  SQL, SPSS, Excel Advanced, Problem Solving & Critical Thinking, Data Analysis, Operational Efficiency
                 </p>
               </div>
 
               <div className="space-y-4">
-                <h3 className="text-xl font-bold text-primary">Operational Excellence</h3>
+                <h3 className="text-xl font-bold text-primary">Risk & Compliance</h3>
                 <p className="text-foreground/70">
-                  Process Improvement, Project Management, Deadline Management, Meeting Preparation &
-                  Documentation, Multi-tasking, Independent Deliverable Management
+                  Risk Assessment, Collateral & Counterparty Risk Management, Operational Risk Controls, Regulatory Compliance, Fraud Detection Frameworks
                 </p>
               </div>
 
               <div className="space-y-4">
-                <h3 className="text-xl font-bold text-primary">Financial Markets & Data</h3>
+                <h3 className="text-xl font-bold text-primary">Financial Operations</h3>
                 <p className="text-foreground/70">
-                  Asset Management, Financial Benchmarks, Investment Analysis, Portfolio Management, Data Analysis,
-                  Quantitative Skills, Bloomberg Terminal Proficiency
+                  Loan Servicing & Lifecycle Management, Financial Reconciliation & Reporting, Portfolio Inventory Management, Liquidity Management, Cash Flow Optimization
                 </p>
               </div>
 
               <div className="space-y-4">
-                <h3 className="text-xl font-bold text-primary">Technology & Tools</h3>
+                <h3 className="text-xl font-bold text-primary">Technology & Platforms</h3>
                 <p className="text-foreground/70">
-                  Meeting Management Tools, Financial Software Systems (Twinfield, Basecone), Advanced Microsoft
-                  Excel, Data Management Tools, Generative AI Applications
+                  Bloomberg Terminal, Twinfield, Basecone, Advanced Microsoft Excel, VBA, SQL, IBM SPSS Statistics
                 </p>
               </div>
 
               <div className="space-y-4">
-                <h3 className="text-xl font-bold text-primary">Communication & Stakeholder</h3>
+                <h3 className="text-xl font-bold text-primary">Stakeholder Management</h3>
                 <p className="text-foreground/70">
-                  Excellent Written and Verbal Communication, Senior Stakeholder Liaison, Cross-functional Team
-                  Collaboration, Multilingual (English, Hindi, Marathi)
+                  Client Servicing, Trade Settlement & Event Management, Senior Stakeholder Liaison, Cross-functional Team Collaboration, Multilingual (English, Hindi, Marathi)
                 </p>
               </div>
 
               <div className="space-y-4">
-                <h3 className="text-xl font-bold text-primary">Professional Development</h3>
+                <h3 className="text-xl font-bold text-primary">Professional Certifications</h3>
                 <p className="text-foreground/70">
-                  Financial Modeling & Valuation Analyst (Udemy), Bloomberg Finance Fundamentals, Bloomberg Market
-                  Concepts Certification, Goldman Sachs & JPMorgan Simulations
+                  Financial Modeling & Valuation Analyst (FMVA), Bloomberg Finance Fundamentals, Goldman Sachs Operations & Risk Simulations, JPMorgan Chase Investment Banking Simulation, PwC US Tax Simulation
                 </p>
               </div>
             </div>
@@ -462,9 +479,15 @@ export default function Home() {
               </a>
             </div>
 
-            <div className="pt-8 border-t border-border">
+            <div className="pt-8 border-t border-border space-y-4">
               <p className="text-foreground/60 text-sm">
-                London, United Kingdom | +44 7956673496
+                <strong>Location:</strong> 62 Taeping Street, London, E14 9UTI
+              </p>
+              <p className="text-foreground/60 text-sm">
+                <strong>Phone:</strong> +44 7956673496
+              </p>
+              <p className="text-foreground/60 text-sm">
+                <strong>Additional Interests:</strong> Emerging markets, fintech innovation, financial literacy advocacy, long-distance running, and chess
               </p>
             </div>
           </div>
